@@ -2,7 +2,7 @@
 *  Driver code for STM32F446RE board 
 *  GPIO driver code 
 *  @Developed by 
-*  @Name:M.Charn,Embedded software Developer
+*  @Name:M.Charan,Embedded software Developer
 *	 @Gmail:Charanm4407@gmail.com
 */
 
